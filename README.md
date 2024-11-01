@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋👋👋
+I make storyboards in osu!. This github is mainly used to share my Storybrew projects so that future storyboarders can get some inspiration from.
+
+❗ I am by no means proficient in coding. I learnt C# purely to be able to make storyboards, so there is going to be a lot of unoptimized code. ❗
+
+osu! page: https://osu.ppy.sh/users/5383942
 
 <!--
 **LowGraphics27/lowgraphics27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
